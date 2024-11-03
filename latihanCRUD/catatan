@@ -1,0 +1,24 @@
+Laravel 11 CRUD System - (with validation)
+------------------------------------------
+
+What we will cover
+------------------
+1. Project Setup
+2. Create Data
+3. Read Data
+4. Edit/Update Data
+5. Delete/destroy Data 
+
+first install your laravel 11 project --
+
+then setup database connection
+
+run your project.
+
+now migrate your database
+
+buat controller
+
+buat boostrap untuk file view
+
+Create route
